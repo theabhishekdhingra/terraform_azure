@@ -1,0 +1,5 @@
+**/*.exe
+#Terraform State Files
+**/*.tfstate
+**/*.tfstate.backup
+**/*.tfstate.backup.d/*
