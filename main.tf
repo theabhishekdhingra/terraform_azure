@@ -11,7 +11,7 @@ terraform {
 
 provider "azurerm" {
   # Configuration options
-  tenant_id= "881b6799-c60b-4fe1-a8c5-9a1def9648e9"
+  tenant_id= "881b6799-c60b-4fe5-9a1648e9"
   features {
   }
 }
