@@ -66,7 +66,7 @@ resource "azurerm_linux_virtual_machine" "new_vm" {
   size = "Standard_B1s"
   disable_password_authentication = false
   admin_username = "abhishek"
-  admin_password = "root@123"
+  admin_password = ""
 
   os_disk {
     caching = "None"
